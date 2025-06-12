@@ -65,7 +65,9 @@ The application will start on `http://127.0.0.1:5000/` by default.
 * **Database**: MySQL
 * **Architecture**: Modular design with ER diagrams and database schema.
 
-Acknowledgement
+## 🙌 Acknowledgment
+
+
 This project was completed in collaboration with [@Vamshi](https://github.com/vamshi-afk) and [@AlluRedddy](https://github.com/friend2), who each contributed significantly to its development.
 
 ## 📄 License
